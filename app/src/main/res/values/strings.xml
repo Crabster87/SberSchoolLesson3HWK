@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SberSchoolLesson3HWK</string>
+    <string name="link"><a href="https://yandex.ru/search/?actor1=Arnold_Schwarzenegger&amp;actor2=Jean-Claude_Van_Damme">https://yandex.ru/search/?actor1=Arnold_Schwarzenegger&amp;actor2=Jean-Claude_Van_Damme</a></string>
+    <string name="deeplink"><a href="yandex://search/?actor3=Sylvester_Stallone&amp;actor4=Dolph_Lundgren">yandex://search/?actor3=Sylvester_Stallone&amp;actor4=Dolph_Lundgren</a></string>
+    <string name="the_activity_sent">THE ACTIVITY SENT &#8650;</string>
+</resources>
